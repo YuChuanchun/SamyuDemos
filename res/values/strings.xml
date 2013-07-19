@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SamyuDemos</string>
+    <string name="activity_xml_label">Xml/XmlActivity</string>    
+    <string name="settings_title">Config.</string>
+    <string name="moduel_settings_title">ModuelConfig.</string>
+    <string name="public_title">Public</string>
+    <string name="private_title">Private</string>
+    <string name="settings">Settings</string>
+    <string name="activity_turn_page_label">Graphics/Turn Page</string>
+    <string name="activity_carousel_label">Graphics/Carousel</string>
+    <string name="activity_notification_label">Sample/Notification</string>
+</resources>

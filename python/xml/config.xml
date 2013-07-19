@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <public name="slot1_phone_number" description="slot1's number" type="string">18621614361</public>
+
+    <private name="mms">
+        <item name="case1_enable_slot1" description="enable slot1" type="boolean">true</item>
+    </private>
+
+    <private name="phone">
+        <item name="case1_enable_slot1" description="enable slot1" type="boolean">false</item>
+        <item name="name" description="name" type="string">chuan</item>
+    </private>
+    
+    <private name="settings">
+        <item name="enable_wifi_hydra" description="Enable Wifi(Hydra)" type="boolean">false</item>
+        <item name="open_gps" description="Open GPS" type="boolean">false</item>
+    </private>
+</config>

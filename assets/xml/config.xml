@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <public name="slot1_phone_number" description="slot1's number" type="number">18621614361</public>
+    <public name="slot2_phone_number" description="slot2's number" type="number">13883145678</public>
+</config>

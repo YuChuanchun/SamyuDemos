@@ -1,0 +1,4 @@
+TOTAL_CASE:1
+hi 
+i 
+love

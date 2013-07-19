@@ -1,0 +1,8011 @@
+All test suites (1) :
+
+Suite : test_suit_scenario1
+
+1 cases in this suite:
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 fail
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 fail
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 fail
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 fail
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 fail
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 fail
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 fail
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 fail
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 pass
+
+test_suit_gmail_case3 pass
+
+test_suit_email_case5 pass
+
+test_suit_camera_case7 pass
+
+test_suit_camera_case8 pass
+
+test_suit_scenario1_case2 pass
+
+test_suit_renren_case1 pass
+
+test_suit_doubanfm_case1 pass
+
+test_suit_weibo_case1 fail
