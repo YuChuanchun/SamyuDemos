@@ -8,6 +8,7 @@
         android:targetSdkVersion="15" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <application
         android:icon="@drawable/ic_launcher"
@@ -65,6 +66,18 @@
                 <category android:name="com.samyu.demos.SAMPLE_CODE" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.samyu.demos.sample.OverlaySample"
+            android:label="@string/activity_overlay_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="com.samyu.demos.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name="com.samyu.demos.sample.OverlayService">
+        </service>
     </application>
 
 </manifest>

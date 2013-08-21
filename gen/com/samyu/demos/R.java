@@ -70,19 +70,23 @@ containing a value of this type.
         public static final int mouse=0x7f020005;
         public static final int panda=0x7f020006;
         public static final int rabbit=0x7f020007;
+        public static final int set=0x7f020008;
     }
     public static final class id {
         public static final int carousel=0x7f070000;
+        public static final int start=0x7f070001;
     }
     public static final class layout {
         public static final int carousel=0x7f030000;
         public static final int main=0x7f030001;
         public static final int moduel_settings=0x7f030002;
-        public static final int settings=0x7f030003;
+        public static final int overlay=0x7f030003;
+        public static final int settings=0x7f030004;
     }
     public static final class string {
         public static final int activity_carousel_label=0x7f050008;
         public static final int activity_notification_label=0x7f050009;
+        public static final int activity_overlay_label=0x7f05000a;
         public static final int activity_turn_page_label=0x7f050007;
         public static final int activity_xml_label=0x7f050001;
         public static final int app_name=0x7f050000;
@@ -91,6 +95,7 @@ containing a value of this type.
         public static final int public_title=0x7f050004;
         public static final int settings=0x7f050006;
         public static final int settings_title=0x7f050002;
+        public static final int start=0x7f05000b;
     }
     public static final class style {
         public static final int AppTheme=0x7f060000;
@@ -105,8 +110,8 @@ containing a value of this type.
            <tr><td><code>{@link #Carousel_Items com.samyu.demos:Items}</code></td><td></td></tr>
            <tr><td><code>{@link #Carousel_SelectedItem com.samyu.demos:SelectedItem}</code></td><td></td></tr>
            <tr><td><code>{@link #Carousel_UseReflection com.samyu.demos:UseReflection}</code></td><td></td></tr>
-           <tr><td><code>{@link #Carousel_android_animationDuration com.samyu.demos:android_animationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Carousel_android_gravity com.samyu.demos:android_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Carousel_android_animationDuration android:animationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Carousel_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Carousel_maxQuantity com.samyu.demos:maxQuantity}</code></td><td></td></tr>
            <tr><td><code>{@link #Carousel_maxTheta com.samyu.demos:maxTheta}</code></td><td></td></tr>
            <tr><td><code>{@link #Carousel_minQuantity com.samyu.demos:minQuantity}</code></td><td></td></tr>
@@ -135,7 +140,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:Items
+          @attr name com.samyu.demos:Items
         */
         public static final int Carousel_Items = 3;
         /**
@@ -149,7 +154,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:SelectedItem
+          @attr name com.samyu.demos:SelectedItem
         */
         public static final int Carousel_SelectedItem = 4;
         /**
@@ -163,19 +168,19 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:UseReflection
+          @attr name com.samyu.demos:UseReflection
         */
         public static final int Carousel_UseReflection = 2;
         /**
-          <p>This symbol is the offset where the {@link com.samyu.demos.R.attr#android_animationDuration}
+          <p>This symbol is the offset where the {@link android.R.attr#animationDuration}
           attribute's value can be found in the {@link #Carousel} array.
-          @attr name android:android_animationDuration
+          @attr name android:animationDuration
         */
         public static final int Carousel_android_animationDuration = 1;
         /**
-          <p>This symbol is the offset where the {@link com.samyu.demos.R.attr#android_gravity}
+          <p>This symbol is the offset where the {@link android.R.attr#gravity}
           attribute's value can be found in the {@link #Carousel} array.
-          @attr name android:android_gravity
+          @attr name android:gravity
         */
         public static final int Carousel_android_gravity = 0;
         /**
@@ -189,7 +194,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:maxQuantity
+          @attr name com.samyu.demos:maxQuantity
         */
         public static final int Carousel_maxQuantity = 7;
         /**
@@ -203,7 +208,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:maxTheta
+          @attr name com.samyu.demos:maxTheta
         */
         public static final int Carousel_maxTheta = 5;
         /**
@@ -217,7 +222,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:minQuantity
+          @attr name com.samyu.demos:minQuantity
         */
         public static final int Carousel_minQuantity = 6;
     };
