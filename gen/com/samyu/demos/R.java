@@ -74,6 +74,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int carousel=0x7f070000;
+        public static final int editText=0x7f070002;
         public static final int start=0x7f070001;
     }
     public static final class layout {
@@ -82,11 +83,13 @@ containing a value of this type.
         public static final int moduel_settings=0x7f030002;
         public static final int overlay=0x7f030003;
         public static final int settings=0x7f030004;
+        public static final int text_to_speech=0x7f030005;
     }
     public static final class string {
         public static final int activity_carousel_label=0x7f050008;
         public static final int activity_notification_label=0x7f050009;
         public static final int activity_overlay_label=0x7f05000a;
+        public static final int activity_test_to_speech_label=0x7f05000c;
         public static final int activity_turn_page_label=0x7f050007;
         public static final int activity_xml_label=0x7f050001;
         public static final int app_name=0x7f050000;
@@ -96,6 +99,7 @@ containing a value of this type.
         public static final int settings=0x7f050006;
         public static final int settings_title=0x7f050002;
         public static final int start=0x7f05000b;
+        public static final int text_sample=0x7f05000d;
     }
     public static final class style {
         public static final int AppTheme=0x7f060000;

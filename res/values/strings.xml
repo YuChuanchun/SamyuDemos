@@ -11,4 +11,6 @@
     <string name="activity_notification_label">Sample/Notification</string>
     <string name="activity_overlay_label">Sample/Overlay</string>
     <string name="start">Start</string>
+    <string name="activity_test_to_speech_label">Sample/Text to speech</string>
+    <string name="text_sample">hi, huimin.</string>
 </resources>

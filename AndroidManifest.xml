@@ -75,6 +75,15 @@
                 <category android:name="com.samyu.demos.SAMPLE_CODE" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.samyu.demos.sample.TextToSpeechSample"
+            android:label="@string/activity_test_to_speech_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="com.samyu.demos.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
         <service
             android:name="com.samyu.demos.sample.OverlayService">
         </service>

@@ -25,9 +25,8 @@ public class OverlayService extends Service {
         mParams = new WindowManager.LayoutParams(
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 WindowManager.LayoutParams.WRAP_CONTENT,
-                WindowManager.LayoutParams.TYPE_PHONE,
-                WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH
-                        | WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL,
+                WindowManager.LayoutParams.TYPE_SYSTEM_ALERT,
+                WindowManager.LayoutParams.FLAG_NOT_TOUCH_MODAL |  WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE,
                 PixelFormat.TRANSLUCENT);
         mParams.gravity = Gravity.CENTER;
 
@@ -43,7 +42,7 @@ public class OverlayService extends Service {
                 if (event.getAction() == MotionEvent.ACTION_UP) {
                     Toast.makeText(getApplicationContext(), "Hi, Don't touch me.", 5000).show();
                 }
-                return false;
+                return true;
             }
         });
         mWM.addView(iv, mParams);
